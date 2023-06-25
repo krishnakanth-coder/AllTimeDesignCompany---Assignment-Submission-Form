@@ -1,0 +1,41 @@
+/** @format */
+.pagecontainer {
+  width: 80%;
+  background-color: #ffffff;
+  height: 80%;
+  border-radius: 10px;
+  padding-left: 20px;
+  padding-right: 20px;
+}
+.headerEl {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border-bottom: 1px solid #101010;
+}
+.mainheading {
+  font-weight: 400;
+  margin-right: 20px;
+}
+.subheading {
+  font-weight: 500;
+}
+.fileheader {
+  display: flex;
+  justify-content: space-between;
+  border-bottom: 1px solid #101010;
+}
+.filesize {
+  display: flex;
+  width: 50%;
+  justify-content: space-around;
+}
+.logoname {
+  margin-left: 20px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+span {
+  margin-right: 10px;
+}
